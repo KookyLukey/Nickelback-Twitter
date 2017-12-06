@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/KookyLukey/Nickelback-Twitter/issues"
   },
-  "homepage": "https://github.com/KookyLukey/Nickelback-Twitter#readme"
+  "homepage": "https://github.com/KookyLukey/Nickelback-Twitter#readme",
+  "dependencies": {
+    "twit": "2.2.9"
+  }
 }
